@@ -1,0 +1,7 @@
+{
+  "name": "Boring Me",
+  "description": "A web application to combat boredom with fun, creative, and engaging tasks. Users can complete tasks, upload proof, and track their accomplishments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
